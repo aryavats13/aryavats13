@@ -11,7 +11,6 @@
 
 I am **Arya Vats**, a passionate Data Science enthusiast from the batch of 2022-26. I love diving into the world of machine learning, neural networks, and deep learning. Here’s a bit more about me:
 
-- 🔭 I’m currently working on **WARDROBE WHIZ**.
 - 🌱 I’m currently learning **Node.js**.
 - 💬 Ask me about anything; I am happy to help.
 - 📫 How to reach me: [Email](mailto:aryavats44@gmail.com)
