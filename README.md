@@ -2,6 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-aryavats13-blue?style=flat&logo=github)](https://github.com/aryavats13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arya--vats--24ba68253-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arya-vats-24ba68253)
+![Profile Views](https://komarev.com/ghpvc/?username=aryavats13&color=blue)
+
 
 ---
 
