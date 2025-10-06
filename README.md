@@ -61,8 +61,4 @@ I'm **Arya Vats**, a Backend Engineer and Full-Stack Developer building scalable
 
 [![Email](https://img.shields.io/badge/Email-aryavats44%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aryavats44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arya-vats-24ba68253)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link)
 
----
-
-⚡ *"Building systems that scale, shipping code that matters"*
